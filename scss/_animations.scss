@@ -1,0 +1,21 @@
+/*animatios*/
+
+@keyframes bounce {
+  0% {
+    transform: scale(2);
+    opacity: 0;
+    height: 9rem;
+    letter-spacing: 2rem;
+  }
+
+  60% {
+    opacity: 0.5;
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 1;
+    height: 6rem;
+    letter-spacing: 1rem;
+  }
+}

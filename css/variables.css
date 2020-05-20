@@ -1,0 +1,14 @@
+/*Variables*/
+:root {
+  /*font-family*/
+  --font-family: "Muli", sans-serif;
+  /*colors*/
+  --light: #25ccf7;
+  /*--light: #ed4c67;*/
+  --primary: #2071e7;
+  /*--primary: #b53471;*/
+  --dark: #2980b9;
+  /*--dark: #6f1e51;*/
+  --text: #333;
+  --background: #fafafa;
+  --hint: #999; }
